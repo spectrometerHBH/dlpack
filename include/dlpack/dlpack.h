@@ -118,6 +118,8 @@ typedef enum {
   kDLHexagon = 16,
   /*! \brief Microsoft MAIA devices */
   kDLMAIA = 17,
+  /*! \brief Trainium*/
+  kDLTrn = 18,
 } DLDeviceType;
 
 /*!
